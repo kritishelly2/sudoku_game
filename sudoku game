@@ -1,0 +1,13 @@
+🧩 Sudoku Game
+
+A simple and interactive Sudoku game built using **HTML**, **CSS**, and **JavaScript**.  
+Challenge yourself with a fresh puzzle every time and test your logic skills!
+
+🔗 Live Demo
+👉 https://sudoku-game-tb8t.vercel.app/
+
+🛠️ Features
+- 🎲 Random Sudoku grid generation
+- ✍️ Editable cells for user input
+- 🔄 Reset/Refresh functionality
+- 📱 Responsive design for all screen sizes
